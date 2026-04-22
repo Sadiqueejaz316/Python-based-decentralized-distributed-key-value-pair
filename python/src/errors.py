@@ -1,0 +1,2 @@
+class UnknownHost(Exception):
+    pass
